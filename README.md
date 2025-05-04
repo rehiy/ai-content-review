@@ -23,10 +23,10 @@ POST http://127.0.0.1/review
 
 ```json
 {
-    "political":0,
-    "violence":0,
-    "porn":0,
-    "by_pass_gfw":0,
-    "inappropriate":0
+    "political": 0,
+    "violence": 0,
+    "porn": 0,
+    "by_pass_gfw": 0,
+    "inappropriate": 0
 }
 ```
